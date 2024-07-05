@@ -14,14 +14,13 @@ This repository contains the practice projects that I completed for codecademy's
 9. **Classes:** Basta Fazoolin'
 
 ## Other Python Practice Projects from codecademy
-- Area Calculator
-- Bank Account
-- Command Line Calendar
-- DNA Analysis
-- Gradebook
-- Number Guess
-- Python Mad Libs
-- RGB-HEX Converter
-- Rock, Paper, Scissors
-- The Nile
-- Tip Calculator
+- Area Calculator (user input, basic arithmetic)
+- Bank Account (classes, string formatting)
+- Command Line Calendar (console application, control flow, functions)
+- DNA Analysis (file read, functions)
+- Gradebook (lists)
+- Number Guess (user input, random library)
+- Mad Libs (user input, string formatting)
+- RGB-HEX Converter (user input, basic arithmetic, string formatting)
+- Rock, Paper, Scissors (user input, control flow, random library)
+- The Nile (functions taking an arbitrary number of positional and/or keyword arguments)
